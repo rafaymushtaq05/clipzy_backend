@@ -1,0 +1,38 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.tiktok.com	TRUE	/	TRUE	1786558865	_ttp	2zmAPgUv04sk2f0lX0dZwRJ4ksz
+.tiktok.com	TRUE	/	FALSE	1784130489	ttwid	1%7CH68GE4qhfEwPo-kraJhQmo0qGVoV8BEeGMaC83PJwig%7C1753026491%7C1967f22ff051b066688dfa9332b65466313f8b3ec9f175d2342a184d5542f3e9
+.tiktok.com	TRUE	/	TRUE	0	tt_csrf_token	ihsMMQCK-lmcuZm3HEtL7fH10yC1AQP-fmEc
+.tiktok.com	TRUE	/	TRUE	1768578552	tt_chain_token	/6yj6XWC4BXuBn19J9aHrA==
+.www.tiktok.com	TRUE	/	TRUE	1778946495	delay_guest_mode_vid	5
+.www.tiktok.com	TRUE	/	TRUE	1753458499	perf_feed_cache	{%22expireTimestamp%22:1753196400000%2C%22itemIds%22:[%227516065735395822870%22%2C%227521766536382663954%22%2C%227497647651475868936%22]}
+.tiktok.com	TRUE	/	TRUE	1758210505	passport_csrf_token	753e2105dc87e1603ef2c45f39820241
+.tiktok.com	TRUE	/	TRUE	1758210505	passport_csrf_token_default	753e2105dc87e1603ef2c45f39820241
+.tiktok.com	TRUE	/	TRUE	0	s_v_web_id	verify_mdbuq38q_uy2GDIZ3_KTAw_4wHC_BPZu_ES6XwDl7JVTI
+.tiktok.com	TRUE	/	TRUE	1758210528	multi_sids	7529191208712537109%3Abe7c30e4dbc55c8b92e95fae7435b059
+.tiktok.com	TRUE	/	TRUE	1758210528	cmpl_token	AgQQAPO4F-RO0rhD4STZfN0s8hyWhTJY_4UzYN5JoA
+.tiktok.com	TRUE	/	FALSE	1755618528	passport_auth_status	3aafcb0f5eeab180976513d77b41b1dc%2C
+.tiktok.com	TRUE	/	TRUE	1755618528	passport_auth_status_ss	3aafcb0f5eeab180976513d77b41b1dc%2C
+.tiktok.com	TRUE	/	TRUE	1768578527	uid_tt	6961bcb5d29856a696cab9245a46d44f0f5a37e883aafa5638dc20e814cbd8f0
+.tiktok.com	TRUE	/	TRUE	1768578527	uid_tt_ss	6961bcb5d29856a696cab9245a46d44f0f5a37e883aafa5638dc20e814cbd8f0
+.tiktok.com	TRUE	/	TRUE	1768578527	sid_tt	be7c30e4dbc55c8b92e95fae7435b059
+.tiktok.com	TRUE	/	TRUE	1768578527	sessionid	be7c30e4dbc55c8b92e95fae7435b059
+.tiktok.com	TRUE	/	TRUE	1768578527	sessionid_ss	be7c30e4dbc55c8b92e95fae7435b059
+.tiktok.com	TRUE	/	FALSE	1784562551	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1784562551	store-country-code	pk
+.tiktok.com	TRUE	/	FALSE	1784562551	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1784562551	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1784562551	tt-target-idc-sign	CLO6X-_a4mc9tXDropkhN1BEldiv3cGmmEpBsoVGbmMPliimegbAsWj_WA0nZyXssElP2Bx-Pm0y3pk-3MM8WgVWO4hdpCQa_LKUHvFVUzozm3JzxT1Q6cOyfgVpV0WApPAhGpHdqQnb1HDMkhsDFByiEPCbX8AcUvQKOFN-E826uaAspnA95F3eK0OmUHcCviuQ_IMVrFPW8Y3sPHPGO4--xhxf0_bEyxMzGdpPMao5zNv5PVmNespgufZubkolrKrYOi23CMlipku7xfddcFTeag58rv9-we9t1VFFB7-Nc94DTw8dNRFS6A7wIsqG-MXfgyPzEtMk3gA882XJ290AfqjUwVQH6j-AVCuLqTDfeabFhJPnfwEs5EqFyqMKvKdDsaPalkMgIMdN8Hkm5NtYnkkFMjmiWRsAKgHXLBXdqgsg5cus9p5fWX6fghP_E9LrEIGg56tJ4gopqvyIGMQyTVS7tMis86I7mNUKQD8TsUhnt4VHpG-dZV_3WzNm
+www.tiktok.com	FALSE	/	FALSE	1760802527	last_login_method	google
+.tiktok.com	TRUE	/	FALSE	1784562551	store-country-sign	MEIEDMBtwU4oyhZQCB0oeQQgxyiRdovUB6ugWE3Y0Hi7biBSGVgBBZIzmZTQyJ5YQqUEEMTULCmsuasitfzHxrKXjWc
+.www.tiktok.com	TRUE	/	TRUE	1778946553	tiktok_webapp_theme_source	auto
+.www.tiktok.com	TRUE	/	TRUE	1778946553	tiktok_webapp_theme	dark
+.www.tiktok.com	TRUE	/	FALSE	0	passport_fe_beating_status	true
+.tiktok.com	TRUE	/	TRUE	1784130557	sid_guard	be7c30e4dbc55c8b92e95fae7435b059%7C1753026559%7C15551970%7CFri%2C+16-Jan-2026+15%3A48%3A49+GMT
+.tiktok.com	TRUE	/	TRUE	1768578527	sid_ucp_v1	1.0.0-KDk5NWYwNDFhMTFiYTVmMTNmOGI0YWVlMzAwMjY1MDNjYTllM2ZjOWMKGQiViLiKtfDDvmgQ_5_0wwYYsws4CEASSAQQAxoCbXkiIGJlN2MzMGU0ZGJjNTVjOGI5MmU5NWZhZTc0MzViMDU5
+.tiktok.com	TRUE	/	TRUE	1768578527	ssid_ucp_v1	1.0.0-KDk5NWYwNDFhMTFiYTVmMTNmOGI0YWVlMzAwMjY1MDNjYTllM2ZjOWMKGQiViLiKtfDDvmgQ_5_0wwYYsws4CEASSAQQAxoCbXkiIGJlN2MzMGU0ZGJjNTVjOGI5MmU5NWZhZTc0MzViMDU5
+.tiktok.com	TRUE	/	FALSE	1784562559	odin_tt	aa6fe2fa8a74ffc828ce4a10bcd404ffcd26f0c8e633b2131dc4a954d1caefca6db37fbe4a8a13b24f0cb3f131400bfd59ad72e5102d565dc38399b021a585d89f0d6a54accc223992eb20f6b4bfdaac
+www.tiktok.com	FALSE	/	FALSE	1760802560	msToken	LuiVpfBkwZpsJj-JPPHoI4KZeUfHP1wdDEeaDS1TKyZFo4281nYuqp04mkOZYdGbVBpHkwc17n5Oon0y1OO74faEQfXWKsObo53rGp-WsqI-Mfe41gRVugYO31bMfdMFhaVjsjKobowHsQ==
+.tiktok.com	TRUE	/	TRUE	1753890560	msToken	Osz6sz77c6t4ddQrqRpWu9TECF5W89LOMCpQaIeqgKAVYyUYcd3BSny_55jPiJPgmP-RkBgIhHDW6Tw4LPkmb2m32_As0a1yce_dXadNJsCjK-dmqDFFwHQVhA3Yj_q6jkBp0651eoXJIw==

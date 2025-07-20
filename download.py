@@ -16,7 +16,7 @@ def progress_hook(d):
     elif d['status'] == 'finished':
         print(f"[{download_id}] Merging audio and video. Please wait...", flush=True)
 
-# Base options
+# Base yt-dlp options
 ydl_opts = {
     'outtmpl': output_path,
     'format': 'bestvideo+bestaudio/best',
@@ -26,20 +26,20 @@ ydl_opts = {
     'progress_hooks': [progress_hook],
 }
 
-# Add cookie file if it exists
+# Add cookie file if available
 cookie_file = os.path.join(os.path.dirname(__file__), 'cookies', f"{platform}.txt")
 if os.path.exists(cookie_file):
-    ydl_opts['cookiefile'] = cookie_file  # ✅ correct key
+    ydl_opts['cookiefile'] = cookie_file
     print(f"[{download_id}] ✅ Using cookie file: {cookie_file}", flush=True)
 else:
     print(f"[{download_id}] ⚠ No cookie file found for {platform}", flush=True)
 
-# Start download
+# Start the download
 try:
     print(f"[{download_id}] Starting download: {url}", flush=True)
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         ydl.download([url])
-    print(f"[{download_id}] ✅ Download complete!", flush=True)
+    print(f"[{download_id}] Download complete!", flush=True)
 except Exception as e:
     print(f"[{download_id}] ❌ ERROR: {e}", flush=True)
     sys.exit(1)

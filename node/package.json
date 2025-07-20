@@ -1,0 +1,15 @@
+{
+  "name": "video-downloader-server",
+  "version": "1.0.0",
+  "description": "Node.js server with yt-dlp integration and socket.io for progress updates",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.2",
+    "uuid": "^9.0.1"
+  }
+}

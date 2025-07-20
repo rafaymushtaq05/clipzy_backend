@@ -1,0 +1,2 @@
+yt-dlp>=2024.4.9
+python-socketio[client]>=5.11.2
